@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PravanshuSamadhiya</h1>
-<h3 align="center">MERN Developer and Open Source Contributor</h3>
+<h3 align="center">Web3 Developer and Open Source Contributor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravanshusamadhiya&label=Profile%20views&color=0e75b6&style=flat" alt="pravanshusamadhiya" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **java, javascript, typescript, OpenSource**
 
-- 📫 How to reach me **pravanshusamadhiya685@gmail.com**
+- 📫 How to reach me **abhisamadhiya684@gmail.com**
 
 - ⚡ Fun fact **I think i'm more Focusing on Learning**
 
